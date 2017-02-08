@@ -1,0 +1,19 @@
+{
+  "name": "pokebot",
+  "version": "1.0.0",
+  "description": "when pokedex becomes real.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.5.4",
+    "fuzzy-matching": "^0.4.3",
+    "lodash": "^4.17.4",
+    "recastai": "^2.3.0",
+    "restify": "^4.3.0",
+    "superagent": "^3.4.0"
+  }
+}
